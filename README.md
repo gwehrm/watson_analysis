@@ -1,6 +1,8 @@
 # watson_analysis
 
-This repository contains various analysis approaches around a crawled dataset of watson.ch, a swiss news-website. 
+The purpose of this repository is to just try and play a bit with different models and deep learning!
+
+the main dataset used for all these analyses is obtained (crawled) from the swiss news website watson.ch. 
 
 So far, this repository contains:
 
