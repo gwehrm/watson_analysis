@@ -14,6 +14,7 @@ So far, this repository contains:
 
 * watson_crawler.ipynb - Jupyter Notebook with the crawler used to get the data from watson.ch
 
-* word2vec - Jupyter Notebook with word2vec
+* word2vec - Jupyter Notebook with some Natural Language Processing
+
 
 
