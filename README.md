@@ -6,7 +6,7 @@ the main dataset used for all these analyses is obtained (crawled) from the swis
 
 So far, this repository contains:
 
-* Classifier.ipynb - A tagger for the german language - obtained from from https://github.com/ptnplanet/NLTK-Contributions/blob/master/ClassifierBasedGermanTagger/ClassifierBasedGermanTagger.py
+* Classifier.ipynb - A tagger for german- obtained from from https://github.com/ptnplanet/NLTK-Contributions/blob/master/ClassifierBasedGermanTagger/ClassifierBasedGermanTagger.py
 
 * Text TF.ipynb - Jupyter Notebook with Classification using Tensorflow
 
