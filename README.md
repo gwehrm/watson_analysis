@@ -16,5 +16,8 @@ So far, this repository contains:
 
 * word2vec - Jupyter Notebook with some Natural Language Processing
 
+* RNN - Jupyter Notebook with a Recurrent Neural Network
+
+
 
 
